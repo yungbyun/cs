@@ -1,0 +1,13 @@
+		Graphics g = this.CreateGraphics();
+
+		Pen p = new Pen(new SolidBrush(Color.Gray), 10);
+
+		//수직선
+		g.DrawLine(p, 50+25, 30, 50+25, 320);
+		g.DrawLine(p, 150+25, 30, 150+25, 320);
+		g.DrawLine(p, 250+25, 30, 250+25, 320);
+
+		//수평선
+		g.DrawLine(p, 30, 50+25, 320, 50+25);
+		g.DrawLine(p, 30, 150+25, 320, 150+25);
+		g.DrawLine(p, 30, 250+25, 320, 250+25);

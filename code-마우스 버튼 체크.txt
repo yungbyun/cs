@@ -1,0 +1,8 @@
+			if(e.Button == MouseButtons.Left)
+			{
+				MessageBox.Show("Left");
+			}
+			else 
+			{
+				MessageBox.Show("Right");
+			}
