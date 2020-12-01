@@ -1,6 +1,6 @@
 # 컴퓨터프로그래밍2 (C# Programming)
 
-## 동영상 강의 슬랙(jnucp2.slack.com)
+## 동영상 강의 시청 및 질문(jnucp2.slack.com)
 
 > * 온라인 강의 동영상 슬렉(Slack) 초청 링크 : https://join.slack.com/t/jnucp2/shared_invite/zt-hd55wznl-0uzZjm75yfwcZT5fXFSLng </br>
 
