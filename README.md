@@ -34,3 +34,27 @@ void main()
     printf("두 개의 값을 더한 결과 : %d\n", iResult);
 }
 ```
+
+## 다음 코드에서 Click은 xxx 함수를 실행할 수 있는 델리게이트이다. 델리게이트 Click을 사용할 수 있도록 코드를 적절히 수정하세요. 
+```
+using System;
+
+public class Base
+{
+	public void xxx()
+	{
+		Console.WriteLine("클릭!");
+	}
+}
+public class Delegate
+{
+	public static void Main()
+	{
+		Base gildong = new Base();
+		gildong.Click(); //Click은 xxx 함수의 델리게이트
+	}
+}
+```
+
+
+
