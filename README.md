@@ -15,23 +15,23 @@
 * 5장.닷넷 프레임워크와 어셈블리(2/4), https://youtu.be/vOobfWEgbE8
 * 5장.닷넷 프레임워크와 어셈블리(3/4), https://youtu.be/4Ut_IGVUchs
 * 5장.닷넷 프레임워크와 어셈블리(4/4), https://youtu.be/vr_yhgF9lXI
-* 6장.델리게이트(1), https://youtu.be/Y2DOtM7Zpok
-* 6장.델리게이트(2), https://youtu.be/USQ7wmUR8JI
-* 6장.델리게이트(3), https://youtu.be/6hc3UXt0Ezs
-* 6장.델리게이트(4), https://youtu.be/L30uhR5Mx7k
-* 6장.델리게이트(5), https://youtu.be/VqHw375n-mk
-* 6장.델리게이트(6), https://youtu.be/eGAC9o_X_2U
-* 장.델리게이트(7), https://youtu.be/zjd2XNYSONg
-* 6장.델리게이트(8), https://youtu.be/zXC4EFyORcE
-* 6장.델리게이트(9), https://youtu.be/T1tphuseiBw
-* 7장.마술사 이용 연습(1), https://youtu.be/2L58O5y6GTs
-* 7장.마술사 이용 연습(2), https://youtu.be/u7_0iH1kEeo
-* 7장.마술사 이용 연습(3), https://youtu.be/acybJoMFz30
-* 8장.모듈과 라이브러리(1), https://youtu.be/hqmCchQlwbM
-* 8장.모듈과 라이브러리(2), https://youtu.be/wrTYVL4-HeE
-* 8장.모듈과 라이브러리(3), https://youtu.be/ldIjaNwgW4s
-* 9장.메모 프로그램(1), https://youtu.be/1kgJtMQfkOY
-* 9장.메모 프로그램(2), https://youtu.be/AriOBnPadL0
+* 6장.델리게이트(1/9), https://youtu.be/Y2DOtM7Zpok
+* 6장.델리게이트(2/9), https://youtu.be/USQ7wmUR8JI
+* 6장.델리게이트(3/9), https://youtu.be/6hc3UXt0Ezs
+* 6장.델리게이트(4/9), https://youtu.be/L30uhR5Mx7k
+* 6장.델리게이트(5/9), https://youtu.be/VqHw375n-mk
+* 6장.델리게이트(6/9), https://youtu.be/eGAC9o_X_2U
+* 장.델리게이트(7/9), https://youtu.be/zjd2XNYSONg
+* 6장.델리게이트(8/9), https://youtu.be/zXC4EFyORcE
+* 6장.델리게이트(9/9), https://youtu.be/T1tphuseiBw
+* 7장.마술사 이용 연습(1/3), https://youtu.be/2L58O5y6GTs
+* 7장.마술사 이용 연습(2/3), https://youtu.be/u7_0iH1kEeo
+* 7장.마술사 이용 연습(3/3), https://youtu.be/acybJoMFz30
+* 8장.모듈과 라이브러리(1/3), https://youtu.be/hqmCchQlwbM
+* 8장.모듈과 라이브러리(2/3), https://youtu.be/wrTYVL4-HeE
+* 8장.모듈과 라이브러리(3/3), https://youtu.be/ldIjaNwgW4s
+* 9장.메모 프로그램(1/2), https://youtu.be/1kgJtMQfkOY
+* 9장.메모 프로그램(2/2), https://youtu.be/AriOBnPadL0
 
 ### [Code 1] 아래 C++ 프로그램을 C# 프로그램으로 바꿔보세요.
 ```
