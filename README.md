@@ -1,6 +1,37 @@
-### C# 프로그래밍
-
+## C# 프로그래밍
 * 2022학년도 C# 프로그래밍 강의 깃허브입니다.
+
+### C# 동영상 강의 리스트
+* 1장.C# 프로그래밍을 위한 OOP 기본(1/2), https://youtu.be/CcaYVcEXM3w
+* 1장.C# 프로그래밍을 위한 OOP 기본(2/2), https://youtu.be/7G7t-mBWvSw
+* 2장.추상화에서 OOP까지(1/2), https://youtu.be/5mm5i3LSBhQ
+* 2장.추상화에서 OOP까지(2/2), https://youtu.be/mWNfrqaDqSw
+* 3장.C# 프로그래밍에 익숙해지기(1/2), https://youtu.be/Edids3QVyuM
+* 3장.C# 프로그래밍에 익숙해지기(2/2), https://youtu.be/qFM07_2JlaA
+* 4장.상속으로 코드 재사용하기(1/3), https://youtu.be/K5LDYRxlM-c
+* 4장.상속으로 코드 재사용하기(2/3), https://youtu.be/t4nRg7Dr53g
+* 4장.상속으로 코드 재사용하기(3/3), https://youtu.be/wKzyccZqpMs
+* 5장.닷넷 프레임워크와 어셈블리(1/4), https://youtu.be/pNEVa2rH0hE
+* 5장.닷넷 프레임워크와 어셈블리(2/4), https://youtu.be/vOobfWEgbE8
+* 5장.닷넷 프레임워크와 어셈블리(3/4), https://youtu.be/4Ut_IGVUchs
+* 5장.닷넷 프레임워크와 어셈블리(4/4), https://youtu.be/vr_yhgF9lXI
+* 6장.델리게이트(1), https://youtu.be/Y2DOtM7Zpok
+* 6장.델리게이트(2), https://youtu.be/USQ7wmUR8JI
+* 6장.델리게이트(3), https://youtu.be/6hc3UXt0Ezs
+* 6장.델리게이트(4), https://youtu.be/L30uhR5Mx7k
+* 6장.델리게이트(5), https://youtu.be/VqHw375n-mk
+* 6장.델리게이트(6), https://youtu.be/eGAC9o_X_2U
+* 장.델리게이트(7), https://youtu.be/zjd2XNYSONg
+* 6장.델리게이트(8), https://youtu.be/zXC4EFyORcE
+* 6장.델리게이트(9), https://youtu.be/T1tphuseiBw
+* 7장.마술사 이용 연습(1), https://youtu.be/2L58O5y6GTs
+* 7장.마술사 이용 연습(2), https://youtu.be/u7_0iH1kEeo
+* 7장.마술사 이용 연습(3), https://youtu.be/acybJoMFz30
+* 8장.모듈과 라이브러리(1), https://youtu.be/hqmCchQlwbM
+* 8장.모듈과 라이브러리(2), https://youtu.be/wrTYVL4-HeE
+* 8장.모듈과 라이브러리(3), https://youtu.be/ldIjaNwgW4s
+* 9장.메모 프로그램(1), https://youtu.be/1kgJtMQfkOY
+* 9장.메모 프로그램(2), https://youtu.be/AriOBnPadL0
 
 ### [Code 1] 아래 C++ 프로그램을 C# 프로그램으로 바꿔보세요.
 ```
