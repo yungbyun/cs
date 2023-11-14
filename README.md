@@ -1,6 +1,9 @@
 ## C# 프로그래밍
 * 2022학년도 C# 프로그래밍 강의 깃허브입니다.
 
+## RIS 지능형서비스사업단 설문조사 (아래 링크 클릭)
+http://naver.me/59ijR7PO
+
 ### C# 동영상 강의 리스트
 * 1장.C# 프로그래밍을 위한 OOP 기본(1/2), https://youtu.be/CcaYVcEXM3w
 * 1장.C# 프로그래밍을 위한 OOP 기본(2/2), https://youtu.be/7G7t-mBWvSw
