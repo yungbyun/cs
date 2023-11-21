@@ -1,6 +1,8 @@
 ## C# 프로그래밍
 * 2022학년도 C# 프로그래밍 강의 깃허브입니다.
 
+<img   src="./usa.png"   width="50%"   height="50%" />
+
 ## RIS 지능형서비스사업단 설문조사 (아래 링크 클릭)
 http://naver.me/59ijR7PO
 
