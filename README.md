@@ -1,6 +1,9 @@
 ## C# 프로그래밍
 * C# 프로그래밍 강의 깃허브입니다.
-  
+
+### 겨울방학 초거대AI 캠프 참가지 모집 (장학금 50만원 지급, 선착순)
+> * [초거대 AI 글로벌 캠프](https://docs.google.com/document/d/1kLbAQ3TCt6db4-cjOmQ9kl3oMbdmd1-pr1iUqfBtI4s/edit?usp=sharing)
+
 <!-- 주석
 ## C# 오픈소스 검색 및 분석 제출
 * GitHub 혹은 Kaggle 등에서 소스를 찾은 경우 -> 간단 보고서에 링크를 넣어서 "이름_학과_학번_간단제목".pdf 파일을 이메일(yungcheolbyun@gmail.com)로 보냄!!!
